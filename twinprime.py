@@ -2,7 +2,7 @@
 """
 Created on Sun Mar 25 03:41:01 2018
 
-@author: Windows
+@author: Jerry
 """
 
 def prime(num):
